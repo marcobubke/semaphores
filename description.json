@@ -1,7 +1,7 @@
 {
     "Name" : "Semaphores",
     "ShortDescription" : "The Semaphores example shows how to use QSemaphore to control access to a circular buffer shared by a producer thread and a consumer thread.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/semaphores/zipball/master",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/semaphores/zipball/6bbc86a8d3eb5da44bf0d7524814f438b64d8875",
     "Icon" : "core.png",
     "Id" : 5,
     "Tags" : "core thread semaphore advanced",
